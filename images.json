@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Tech Flow Logo",
+        "path": "image/logos/tech_flow.png"
+    },
+    {
+        "id": 2,
+        "title": "Eco Bright Logo",
+        "path": "image/logos/eco_bright.png"
+    },
+    {
+        "id": 3,
+        "title": "Nexus Point Logo",
+        "path": "image/logos/nexus_point.png"
+    }
+]
